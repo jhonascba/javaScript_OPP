@@ -1,0 +1,20 @@
+{
+  "name": "javascript_opp",
+  "version": "1.0.0",
+  "description": "Practicing OOP with JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jhonascba/javaScript_OPP.git"
+  },
+  "author": "Jhonas C. B. Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonascba/javaScript_OPP/issues"
+  },
+  "homepage": "https://github.com/jhonascba/javaScript_OPP#readme"
+}
