@@ -5,8 +5,6 @@ export class ContaPoupanca extends Conta {
         super(agencia, conta, cliente);
     }
 
-    //Setters e Getters
-
     //Sobrescreve método original
     sacar(valor) {
         if (valor > 0 && valor <= this._saldo) {
